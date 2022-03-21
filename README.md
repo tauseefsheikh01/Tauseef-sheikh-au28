@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Fullstack devloping**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Front End**
 
 - 📫 How to reach me **tauseef150198@gmail.com**
 
