@@ -1,4 +1,5 @@
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Tauseef</h1>
+<h3 align="center">A passionate Fullstack Developer from India</h3>
 
 - 🔭 I’m currently working on **Flutter**
 
