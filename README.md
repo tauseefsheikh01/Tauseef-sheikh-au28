@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **tauseef150198@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_L7qFf-aLTR0_opxCFlaxlU6S5DOqViG/view?usp=drive_link](https://drive.google.com/file/d/1_L7qFf-aLTR0_opxCFlaxlU6S5DOqViG/view?usp=drive_link)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1_L7qFf-aLTR0_opxCFlaxlU6S5DOqViG/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
