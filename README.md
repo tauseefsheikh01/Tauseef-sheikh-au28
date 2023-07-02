@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tauseef</h1>
 <h3 align="center">A passionate Fullstack Developer from India</h3>
 
+- 👨‍💻 All of my projects are available
+
+- 💬 Ask me about Development
+
 - 🔭 I’m currently working on **Flutter**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
